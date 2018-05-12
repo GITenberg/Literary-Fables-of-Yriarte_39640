@@ -1,0 +1,64 @@
+_repo: Literary-Fables-of-Yriarte_39640
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Devereux, George H. (George Humphrey)
+    alias: Devereux, Geo. H.
+    deathdate: 1878
+    gutenberg_agent_id: '40127'
+    url: http://www.gutenberg.org/2009/agents/40127
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Iriarte, Tomás de
+    aliases:
+    - Cisnéros, Francisco Agustín de
+    - Iriarte, Tomas de
+    - Yriarte, Tomás de
+    - De Iriarte, Tomás
+    - Oropesa, Tomás de Iriarte y
+    - Cisneros, Francisco Agustin de
+    birthdate: 1750
+    deathdate: 1791
+    gutenberg_agent_id: '33948'
+    url: http://www.gutenberg.org/2009/agents/33948
+    wikipedia: http://es.wikipedia.org/wiki/Tom%C3%A1s_de_Iriarte
+description: ''
+gutenberg_issued: '2012-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39640'
+  lccn: '16004127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables, Spanish -- Translations into English'
+- !lcc 'PQ'
+tableOfContents: The elephant and other animals -- The silkworm and spider -- The
+  bear, the monkey and the hog -- The drones and the bee -- The two parrots and the
+  magpie -- The showman's monkey and his master -- The cathedral bell and the little
+  bell -- The ass and the flute -- The ant and the flea -- The wall-flower and the
+  thyme -- The rabbits and the dogs -- The eggs -- The duck and the snake -- The muff,
+  the fan, and the umbrella -- The frog and the tadpole -- The bustard -- The linnet
+  and the swan -- The hack mule -- The goat and the horse -- The bee and the cuckoo
+  -- The bat and the cat -- The owl and lamp, and the dogs and the ragman -- The thrush,
+  parrot and magpie -- The wolf and the shepherd -- The lion, eagle and bat -- The
+  monkey -- The ass and his master -- The turnspit and the mule of the well -- The
+  author and the rat -- The squirrel and the horse -- The fop and the lady -- The
+  ostrich, the dromedary, and the fox -- The crow and the turkey -- The silkworm and
+  the caterpillar -- The purchase of the ass -- The ox and the grasshopper -- The
+  macaw and the marmot -- The portrait -- The two inns -- The tea-plant and sage --
+  The cat, the lizard, and the cricket -- The concert of the beasts -- The sword and
+  the spit -- The unfortunates -- The cocks -- The monkey and the magpie -- The nightingale
+  and the sparrow -- The gardener and his master -- The two thrushes -- The lace-makers
+  -- The hunter and his ferret -- The pig, the cock and the lamb -- The flint and
+  the steel -- The judge and the robber -- The housemaid and the broom -- The lizards
+  -- The watches -- The mole and other animals -- The rope-danger -- The owl and the
+  toad -- The oil merchant's ass -- The connoisseurs -- The frog and the hen -- The
+  beetle -- The rich man's library -- The viper and the leech.
+title: Literary Fables of Yriarte
+url: http://www.gutenberg.org/ebooks/39640
