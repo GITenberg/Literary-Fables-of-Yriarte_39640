@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33948
     wikipedia: http://es.wikipedia.org/wiki/Tom%C3%A1s_de_Iriarte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39640#Literary-Fables-of-Yriarte
 gutenberg_issued: '2012-05-07'
 gutenberg_type: Text
 identifiers:
